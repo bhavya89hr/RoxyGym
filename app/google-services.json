@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394025674784",
+    "project_id": "roxygym-937af",
+    "storage_bucket": "roxygym-937af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394025674784:android:3918c5e1247cf25cd7f445",
+        "android_client_info": {
+          "package_name": "com.bhavya.roxygym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANm4Q2ylfC2dIHCUt9Z45D11Ck35nFYrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
